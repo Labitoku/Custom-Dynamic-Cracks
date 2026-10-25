@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83a56311d1e1da846b48de00e378d107
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332022
+  packageName: Clean Editor Layout for Unity
+  packageVersion: 1.4.7
+  assetPath: Assets/RisingFoxGames/CleanEditorLayout/CleanEditorLayout.asmdef
+  uploadId: 1027478

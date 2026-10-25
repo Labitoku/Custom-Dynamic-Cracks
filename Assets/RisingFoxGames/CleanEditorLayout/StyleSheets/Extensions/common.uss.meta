@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 15df7796ff0f82b4683cfba50cd989c4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 332022
+  packageName: Clean Editor Layout for Unity
+  packageVersion: 1.4.7
+  assetPath: Assets/RisingFoxGames/CleanEditorLayout/StyleSheets/Extensions/common.uss
+  uploadId: 1027478
